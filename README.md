@@ -31,14 +31,14 @@ I have used these three fonts with varied font styles, as a way of portraying th
 ### Colours
 Below are all the colours I have used throughout my website:
 
-![image of all colours used in the website](../assets/images/colour.png)
+![image of all colours used in the website](colour.png)
 
 I have used large amounts of blue and green, to emphasise how Rhodes Foreshore focuses on living with the environment, with many the trees and river accompaying the location. To create depth within the website to avoid a bland style, I have incorporated a darker shade of the green. For contrast within the website, I have added a hint of orange and pink for the purpose of showing interactive elements and adding diversity, respectively.
 
 My aim for using these combination of colours were to present how flourished the location was with natural elements, while hinting the users of the diversity. By using playful colours such as the orange and pink, users are encouraged to become curious of what the website and location has to offer. 
 
 ### Layout & composition
-![Image showing the margins of the webpage](../assets/images/margin.png)
+![Image showing the margins of the webpage](margin.png)
 Throughout my website, I have made great focus on keeping similar margin spaces to either left, and right, sides of the page. By focusing on maintaining a coherent visual balance using white spaces, I am able to create breathing space for users to avoid users feeling crammed by information. By doing this, I was able to maintain consistency through the pages.
 
 ### Interactivity - animation & motion 
@@ -46,20 +46,20 @@ The main reasons why I used animations or motions within my websites are to show
 
 
 **Landing page**
-![Image of the landing page, annotated with the interactivity of each image with 'Enlarge' and 'Pulse'](../assets/images/animations.png)
+![Image of the landing page, annotated with the interactivity of each image with 'Enlarge' and 'Pulse'](animations.png)
 Here, I have used both transition and animation on the images. Some images pulse with no user interactions, making the page look alive. The other images respond to users hover, where the images become larger for users to view the images closer. By doing this, users are able to wonder the page with their cursor, encouraging curiosity. This results in users wanting to scroll further down to the page, allowing them to uncover what the location has to offer.
 
 **Buttons**
-![Image of the navigations buttons](../assets/images/enlarge.png)
+![Image of the navigations buttons](enlarge.png)
 Here is a screenshot of what happens to a button when a user hovers over them. As shown on the right button, the texts become larger and bolder, changing its colour to a darker shade. This visually tells the users that they are hovering over this button, and that they are able to interact with it, in this case, press the text. By visualising a response to user interactions, their experiences with the website becomes smooth and easy, with minimal confusions or questions.
 
 **Clickable**
-![Image of the Event cards on the Events page](../assets/images/clickable.png)
+![Image of the Event cards on the Events page](clickable.png)
 As shown above in the buttons explanations, users are informed of interactivity through visual cues. When users search around the website with their cursor, contents enlarge, or become bolder, showing that contents are clickable. Here is another example. This is visible in the events page, where event images and names are lined vertically. Here, I have hovered ovver the 'Baby Rhymetime' content, showing the box to have become larger then the other boxes, with a slightly different glow strength around the rims of the box. These sublte changes create a significant difference in usability, allowing for a smoother interactivity.
 
 ### Consistency in interactions – making buttons, links, and forms behave predictably.
 Through all pages of the website, I have ensured that similar working interactive elements have a familar design style to it. Below is an example:
-![alt text](../assets/images/predictability.png)
+![alt text](predictability.png)
 Here are three different buttons in different sections of the page, serving a similar purpose - to navigate the user to another section of the website. Having similar purposed, I have made the buttons look almost identical to one-another. When a user is navigates somewhere after clicking this button, they are able to predict that clicking on an almost-identical button will do the same. In other words, users are able to familiarise themselves with how certain elements of the website behaves.
 
 # Usability testing
@@ -173,17 +173,17 @@ This code allows the button to change its background colour when the user hovers
 
 ### Adding more texts
 During the end of the think-aloud session, the user had mentioned that there were very minimal texts which confused the users on what some sections were about. This issue showed that I lacked accomodating for the *Help and Documentation* usability heuristics. To improve the website, I have included a section below the transport page giving written explanations on how users can navigate the area.
-![Image of the transport page, with text explanations on the bottom of the image](../assets/images/text.png)
+![Image of the transport page, with text explanations on the bottom of the image](text.png)
 
 # Comparisons between wireframes and prototype
 An extensive number of iterations occurred between the wireframe and prototype phases as the design evolved. While it’s not possible to document every iteration, the following outlines the key developments.
 
 ### Sticky header
-![Image of the sticky header wireframe and prototype](../assets/images/difference.png)
+![Image of the sticky header wireframe and prototype](difference.png)
 Originally, I have planned for the sticky header to take larger space within the landing page. This decision was made as I wanted the sticky header to act as a 'whitespace' when viewed together with the page content. However, during the prototyping stage, I realised that this idea was not feasible, as it ultimately resulted in a cluttered layout. 
 
 To tackle this challenge, I have reflected back to my moodboard created during the previous assignment. Below is the image of my moodboard:
-![Image of moodboard](../assets/images/moodboardex.png)
+![Image of moodboard](moodboardex.png)
 After careful reflection of the website design style, I had noticed that I had not made use of the 'wave' pattern enough to emphasise the Parramatta river accompanying Rhodes Foreshore. With this, I had referred to an AI software (Microsoft Copilot) to help me create a wave structure. The wave patterns were made using the below html coding:
 
 ```
@@ -194,7 +194,7 @@ After careful reflection of the website design style, I had noticed that I had n
 This structure allowed me to adjust the stroke colour and width of the wave, encouraging originality in the design. With this code, I was able to implement 4 waves in the sticky header to reflect the Parramatta river, while maintaining whitespace.
 
 ### Navigations
-![Image of the navigations button, wireframe and prototype](../assets/images/difference2.png)
+![Image of the navigations button, wireframe and prototype](difference2.png)
 Here is a subtle, yet crucial iteration I had made to the navigation buttons located in the landing home page. 
 
 Initially in my wireframe, I had included 5 buttons which navigates to different parts of the website. During the wireframing stage, I believed that these button selections effectively guided users in understanding what information to provide about the location.
@@ -204,11 +204,11 @@ Moving into my prototyping stages and iterating the prototype to become highly i
 With these observations, I was able to filter through which buttons were truly necessary for users. I had removed the 'Map' button. Rather than completely removing the 'Events' button, I had moved it up to the sticky header for users to check any time.
 
 ### Transport options
-![Imge of the transport page, wireframe and prototype](../assets/images/difference3.png)
+![Imge of the transport page, wireframe and prototype](difference3.png)
 Here, I have removed the 'Navigate Rhodes Like a Pro' section from the transport page, replacing it with an option for users to access Google Maps. 
 
 When looking over all sections of the website, I had realised that this feature overlapped another part of the website, shown below:
-![Image of the Map view from activities section on landing page](../assets/images/difference4.png)
+![Image of the Map view from activities section on landing page](difference4.png)
 This part of the website is located in the homa page, where users are able to select the 'trail', 'map', or 'list' button to view activities in their desired way. When the 'map' is selected, a map of Rhodes Foreshore is visible, along with activities layered over the map to visualise where these activities can take place. This part of the code played an almost-identical purpose with the removed wireframe section, where users were able to view where each activities were in the map. The only visible difference were the format and location of the section, one being in the landing home page along with activities, and the other being in the transport page.
 
 After removing this feature, the final page felt empty and short. To fix this issue, I had created a new feature where users are able to navigate to Google Maps, to properly see the best way they can navigate to Rhodes Foreshore.
@@ -219,7 +219,7 @@ After removing this feature, the final page felt empty and short. To fix this is
 ### Colours
 I have iterated a few of my colours, using the Contrast Checker introduced in class during week 9.
 Below are the changes I made for the purpose of creating a stronger contrast between the white background:
-![Image of changes in colour](../assets/images/colourchange.png)
+![Image of changes in colour](colourchange.png)
 
 Although I was happy with the original colours, they did not contrast well with the white background of the website, especially the orginal soft pink. My original aim for the orange colour was to portray the playfulness and creativeness of Rhodes, with the soft pink reflecting a sense of accomodation, like a mother's love, accepting all diversity. However, this had backfired the website to look weak, with low impressions on users. 
 
@@ -228,14 +228,14 @@ To improve the visual aesthetics of the website, I had adjusted the above three 
 ### Error Preventions
 It is crucial in a website that users are informed of significant changes that will be made with their interactions. In the case of this website, pressing the 'Google Maps' button will navigate them to the official google maps website. Users should be notified of this drastic change.
 
-![Image of confirmation on navigating to Google Maps](../assets/images/iterations.png)
+![Image of confirmation on navigating to Google Maps](iterations.png)
 
 To address *error preventions* from the **10 usability heuristics**, I have implemented an additional step before navigating the user. Above is a screenshot of the confirmation that will become visible when the user pressed on the 'Google Maps' button. Asking if the user would like to open a new tab for google maps, they are able to choose to open the new tab, or go back to the previous page. By introducing this additional layer, I aimed to prevent users from performing unintended or surprising actions.
 
 ### Events description
 When reflecting on the informativeness of the website, I realised that users lacked understanding of what the displayed events were about. Although there were lists of what events took place at the location, there were no information about the dates, time, or detailed descriptions of these events. Without this additional information, the events page was pointless.
 
-![Image of the Korean Calligraphy events description page](../assets/images/iterations1.png)
+![Image of the Korean Calligraphy events description page](iterations1.png)
 
 To recover from this issue, I had implemented a new page specific for informing the specifics of each events. This new page has the title of the event, an enlarged image of the event from the Events page, as well as the location, date, time, and descriptions of the event. By implementing this change, users are now given insights on what the events are and are able to join these events if they wish to. I have also ensured to address the **usability heuristics** of *User Control and Freedom* by including the 'Back to event' button on the top left corner. At the same time, I believe that my design decisions incorporate the heuristics of *Matching Between the System and the Real World* by including an arrow in the button. By doing this, users are able to quickly recognise that by clicking on the top-left button, they are able to navigate themselves back to where they came from without having to read the text.
 
@@ -251,24 +251,24 @@ To create the effect of going back to the previous page, I have used the below h
 # A list of browsers and screen resolutions you have tested and confirmed are working correctly
 
 **Laptop & Google**
-![Image of laptop resolution on Google](../assets/images/laptop.png)
-![Image of laptop resolution on Google](../assets/images/laptop1.png)
-![Image of laptop resolution on Google](../assets/images/laptop2.png)
+![Image of laptop resolution on Google](laptop.png)
+![Image of laptop resolution on Google](laptop1.png)
+![Image of laptop resolution on Google](laptop2.png)
 
 **Laptop & FireFox**
-![Image of laptop resolution on Firefox](../assets/images/firefox.png)
-![Image of laptop resolution on Firefox](../assets/images/firefox1.png)
-![Image of laptop resolution on Firefox](../assets/images/firefox2.png)
+![Image of laptop resolution on Firefox](firefox.png)
+![Image of laptop resolution on Firefox](firefox1.png)
+![Image of laptop resolution on Firefox](firefox2.png)
 
 **Iphone 14 Pro Max**
-![Image of Iphone resolutions](../assets/images/iphone.png)
-![Image of Iphone resolutions](../assets/images/iphone1.png)
-![Image of Iphone resolutions](../assets/images/iphone2.png)
+![Image of Iphone resolutions](iphone.png)
+![Image of Iphone resolutions](iphone1.png)
+![Image of Iphone resolutions](iphone2.png)
 
 **Ipad Mini**
-![Image of Ipad resolution](../assets/images/ipad.png)
-![Image of Ipad resolution](../assets/images/ipad1.png)
-![Image of Ipad resolution](../assets/images/ipad2.png)
+![Image of Ipad resolution](ipad.png)
+![Image of Ipad resolution](ipad1.png)
+![Image of Ipad resolution](ipad2.png)
 
 # References
 
