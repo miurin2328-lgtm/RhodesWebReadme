@@ -1,7 +1,7 @@
 # Justifications for implementation decisions
 
 ### Navigation structure
-![image of sticky header](<../assets/images/navigation structure.png>)
+![image of sticky header](<navigation structure.png>)
 My micro-website has a total of 4 pages:
 - Home page
     - This is the landing page, where users can navigate most information from. The hero-section creates impact, encouraging users to scroll through the pages.
